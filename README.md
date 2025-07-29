@@ -4,3 +4,6 @@ A GLOBAL HEALTH STATISTICS ANALYSIS FROM THE YEAR 2020 TO 2024
 ![dashboard](16379.jpg)
 # step 2
 ![dashboard](HEALTHCARE.PNG)
+
+# Step 3
+![dashboard](GLOBAL HEALTH STATS 2.PNG)
